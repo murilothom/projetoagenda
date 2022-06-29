@@ -36,5 +36,5 @@
 <img src="https://user-images.githubusercontent.com/86668032/176561538-8952ad74-5087-4b62-ae00-780282113641.png"/>
 </div>
 
-<h1>Sobre o projeto</h1>
+<h2>Sobre o projeto</h2>
 <p>Este foi um projeto criado com base em aulas de um curso na Udemy do professor Luiz Otávio Mirando, onde estou adquirindo mais conhecimento no desenvolvimento web.</p>
