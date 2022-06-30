@@ -37,4 +37,4 @@
 </div>
 
 <h2>Sobre o projeto</h2>
-<p>Este foi um projeto criado com base em aulas de um curso na Udemy do professor Luiz Otávio Mirando, onde estou adquirindo mais conhecimento no desenvolvimento web.</p>
+<p>Este foi um projeto criado com base em aulas de um curso na Udemy do professor Luiz Otávio Miranda, onde estou adquirindo mais conhecimento no desenvolvimento web.</p>
